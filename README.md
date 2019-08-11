@@ -1,1 +1,1 @@
-# opencv-project
+# Facial Recognition using opencv
